@@ -12,7 +12,6 @@
 [<img align="left" alt="SandaniAmasha | Instagram" width="22px" src="https://raw.githubusercontent.com/SandaniAmasha/SandaniAmasha/master/Images/instagram.png" />][instagram]
 [<img align="left" alt="SandaniAmasha | Facebook" width="22px" src="https://raw.githubusercontent.com/SandaniAmasha/SandaniAmasha/master/Images/facebook.png" />][facebook]
 [<img align="left" alt="SandaniAmasha | YouTube" width="22px" src="https://raw.githubusercontent.com/SandaniAmasha/SandaniAmasha/master/Images/youtube.png" />][youtube]
-[<img align="left" alt="SandaniAmasha | Twitter" width="22px" src="https://raw.githubusercontent.com/SandaniAmasha/SandaniAmasha/master/Images/twitter.png" />][twitter]
 
 <br/>
 <br/>
@@ -42,7 +41,6 @@
 <br />
 <br />
 
-[twitter]: https://twitter.com/
 [youtube]: https://www.youtube.com/
 [instagram]: https://www.instagram.com/
 [facebook]: https://www.facebook.com/
